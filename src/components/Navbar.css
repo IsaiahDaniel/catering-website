@@ -1,0 +1,6 @@
+.bg-mobile {
+    /* background: rgba(), url("../assets/vegetables-mobile-background.svg") center center/cover no-repeat; */
+    background: linear-gradient(rgba(0,0,0, 0.9), rgba(0,0,0, 0.9)), url("../assets/vegetables-mobile-background.svg");
+    z-index: 200px;
+}
+
